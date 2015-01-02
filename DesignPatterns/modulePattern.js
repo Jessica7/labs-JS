@@ -1,6 +1,5 @@
 /*
   Module Pattern
-
   -Melhora a redução de variáveis privadas no escopo global
   -Renomeie funções públicas sem alterar o corpo da função.
   -utilizado em vários projetos: jQuery, Dojo, ExtJS, YUI
