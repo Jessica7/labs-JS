@@ -19,7 +19,7 @@
   		body: "Here is comment"
   	},{
   		author: {
-  			firstName : "Josy",
+  			firstName : "Maria",
   			lastName : "Dias"
   		}, 
   		body: "Here is my comment!"
