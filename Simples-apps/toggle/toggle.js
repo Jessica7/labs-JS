@@ -1,4 +1,4 @@
-var Toggle = {
+var Toggle = {var Toggle = {
 
 	box: 					document.querySelector('.box'),
 	btn: 		 			document.querySelector('.show-hide'),
@@ -37,6 +37,6 @@ var Toggle = {
 		else this.fadeOn();
 	}
 
-}	
+	}	
 
 Toggle.clickBtn();
