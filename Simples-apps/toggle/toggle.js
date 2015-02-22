@@ -33,11 +33,8 @@ var Toggle = {
 	},
 
 	check: function(){
-		if(  this.box.style.opacity < 0.95  ){
-	 		this.fadeIn();
-		}else{
-	 		this.fadeOn();
-		}
+		if( this.box.style.opacity < 0.95  ) this.fadeIn();
+		else this.fadeOn();
 	}
 
 }	
