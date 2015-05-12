@@ -3,7 +3,7 @@
 ***********************************/
 
 /*
-O operador (NEW) garante que o objeto referênciado
+O operador (NEW) garante que o objeto referenciado
 pela palavra THIS  seja retornado ao témino da função
 
 Se houver uma função de retorno(explícita), então
